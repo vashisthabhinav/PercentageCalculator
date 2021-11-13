@@ -4,7 +4,7 @@ public class Percentage_of_5_subjects {
     public static void main(String[] args) {
         System.out.println("Marks of the student- ");
         Scanner sc = new Scanner(System.in);
-        System.out.println("Enter Maximum marks in 1 subject: ");
+        System.out.println("Enter Maximum marks which an be obtained in a subject: ");
         float t= sc.nextFloat();
         System.out.println("Enter the marks of Subject 1: ");
         float a= sc.nextFloat();
